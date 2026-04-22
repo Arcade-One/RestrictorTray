@@ -61,7 +61,7 @@ Download the latest version from:
 
 Full setup and configuration instructions are available in the Wiki:
 
-➡ **Wiki → https://github.com/YOURNAME/RestrictorTray/wiki**
+➡ **Wiki → https://github.com/Arcade-One/RestrictorTray/wiki**
 
 ---
 

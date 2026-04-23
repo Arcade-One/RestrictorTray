@@ -65,6 +65,24 @@ Full setup and configuration instructions are available in the Wiki:
 
 ---
 
+# Navigation
+
+Use the links below:
+
+- [[Installation]]  
+- [[Quick Start]]  
+- [[GUI Reference]]  
+- [[MAME Setup]]  
+- [[RetroArch Setup]]  
+- [[PC Games Setup]]  
+- [[TeknoParrot Setup]]  
+- [[Overrides Guide]]  
+- [[COM Configuration]]  
+- [[Advanced Configuration]]  
+- [[Troubleshooting]]  
+
+---
+
 ## Screenshots
 
 <img width="792" height="682" alt="Capture" src="https://github.com/user-attachments/assets/97da889a-f385-4f48-a216-b8f21830897f" />

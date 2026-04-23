@@ -1,3 +1,5 @@
+<img width="919" height="904" alt="RestrictorTray Logo" src="https://github.com/user-attachments/assets/6d33a65c-dcd3-407a-8a5c-2f44c699648f" />
+
 # RestrictorTray
 
 Automatic joystick restrictor switching for arcade systems.

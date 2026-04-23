@@ -67,7 +67,7 @@ Full setup and configuration instructions are available in the Wiki:
 
 ## Screenshots
 
-(Add screenshots here later)
+<img width="792" height="682" alt="Capture" src="https://github.com/user-attachments/assets/97da889a-f385-4f48-a216-b8f21830897f" />
 
 ---
 

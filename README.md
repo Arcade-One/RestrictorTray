@@ -1,4 +1,4 @@
-<img width="919" height="904" alt="RestrictorTray Logo" src="https://github.com/user-attachments/assets/6d33a65c-dcd3-407a-8a5c-2f44c699648f" />
+<img width="300" height="295" alt="RestrictorTray Logo" src="https://github.com/user-attachments/assets/d13382f1-290f-4eb1-bc32-2fda7d6b0762" />
 
 # RestrictorTray
 

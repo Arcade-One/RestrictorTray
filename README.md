@@ -61,25 +61,7 @@ Download the latest version from:
 
 Full setup and configuration instructions are available in the Wiki:
 
-➡ **Wiki → https://github.com/Arcade-One/RestrictorTray/wiki**
-
----
-
-# Navigation
-
-Use the links below:
-
-- [[Installation]]  
-- [[Quick Start]]  
-- [[GUI Reference]]  
-- [[MAME Setup]]  
-- [[RetroArch Setup]]  
-- [[PC Games Setup]]  
-- [[TeknoParrot Setup]]  
-- [[Overrides Guide]]  
-- [[COM Configuration]]  
-- [[Advanced Configuration]]  
-- [[Troubleshooting]]  
+➡ **Wiki → https://github.com/Arcade-One/RestrictorTray/wiki** 
 
 ---
 
